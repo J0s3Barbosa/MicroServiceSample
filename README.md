@@ -15,4 +15,7 @@ Better scalability
 Share data with whoever wants/needs it
 Better user experience due to asynchronous processing
 
+Scheduled
+Long running task
+Queued
 
